@@ -25,7 +25,7 @@ public class SqaureRoot {
     }
 
     public static void main(String[] args) {
-        double num = 25;
+        double num = 16;
         double result = squareRoot(num);
         System.out.println("Approximate sqaure root of " + num + " is: " + result);
     }
